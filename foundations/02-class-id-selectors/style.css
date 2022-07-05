@@ -1,0 +1,15 @@
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, "Dejavu sans", sans-serif;
+}
+#container1 {
+    color: #00f;
+    font-size: 80pt;
+}
+#container2 {
+    background-color: #0f0;
+    font-weight: bold;
+}
+.paragraph2 {
+    font-size: 40pt;
+}
